@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmctechnologies
 - 👀 I’m interested in seeing how webpage work, APIs collaborate 
 - 🌱 I’m currently learning the fundamentals of python
-- 📫 How to reach me nyamajejemaregesi@gmail.com and via whatsap +255747436868
+- 📫 How to reach me nyamajejemaregesi@gmail.com and via whatsap +255688810748
 - ⚡ Fun fact: 
 
 <!---
